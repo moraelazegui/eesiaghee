@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooshaoxoh.ktz.in.ua/sitemap.xml
